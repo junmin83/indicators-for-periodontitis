@@ -1,5 +1,4 @@
-# indicators-for-periodontitis
-Identification of important risk indicators for periodontitis based on machine learning approach
+# Identification of important risk indicators for periodontitis based on machine learning approach
 
 All works were done in Jupyter Notebook environment. Following shows essential part of codes in .py format. 
 
